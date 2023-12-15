@@ -8,7 +8,7 @@ import {
  faStackOverflow, 
 } from "@fortawesome/free-brands-svg-icons"; 
 import { Box, HStack } from "@chakra-ui/react"; 
- 
+
 const socials = [ 
  { 
    icon: faEnvelope, 
