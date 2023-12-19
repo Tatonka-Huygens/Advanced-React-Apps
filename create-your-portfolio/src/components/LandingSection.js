@@ -5,7 +5,7 @@ import logo from './lucho-logo.png';
 
 const greeting = "Hello, I am Lou!"; 
 const bio1 = "A Full-Stack Developer"; 
-const bio2 = "Specialized in React and Django"; 
+const bio2 = "Specialized in REACT and DJANGO"; 
  
 const LandingSection = () => ( 
  <FullScreenSection 
@@ -18,7 +18,7 @@ const LandingSection = () => (
      <VStack spacing={4} alignItems="center"> 
        <Avatar 
          src={logo}
-         size="2xl" 
+         size="2x1"
          name="Your Name" 
        /> 
        <Heading as="h4" size="md" noOfLines={1}> 
